@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: springboot-amqp
+  rabbitmq:
+    host: 192.168.128.139
+    port: 5672
+    username: agan
+    password: 123456
